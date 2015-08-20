@@ -1,6 +1,6 @@
 {
   "name": "forty-two",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The answer to life, the universe, and everything.",
   "main": "index.js",
   "scripts": {
